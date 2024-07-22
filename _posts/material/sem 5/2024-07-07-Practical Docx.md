@@ -26,6 +26,7 @@ excerpt: "Comprehensive collection of practical documents for various subjects."
     <li><a href="/assets/docx/wt/ET22BTCO037_WT_p1.docx" download>Practical 1</a></li>
     <li><a href="/assets/docx/wt/ET22BTCO037_WT_p2.docx" download>Practical 2</a></li>
     <li><a href="/assets/docx/wt/ET22BTCO037_WT_p3.docx" download>Practical 3</a></li>
+    <li><a href="/assets/docx/wt/ET22BTCO037_WT_html_assignment_1.docx" download>HTML Assignment 1</a></li>
     <!-- Add more documents as needed -->
   </ul>
 </details>
