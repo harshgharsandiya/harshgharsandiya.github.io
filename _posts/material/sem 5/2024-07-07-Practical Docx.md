@@ -58,6 +58,8 @@ excerpt: "Comprehensive collection of practical documents for various subjects."
   <ul>
     <li><a href="/assets/docx/ai/ET22BTCO037_AI_p1.docx" download>Practical 1</a></li>
     <li><a href="/assets/docx/ai/ET22BTCO037_AI_p2.docx" download>Practical 2</a></li>
+    <li><a href="/assets/docx/ai/ET22BTCO037_AI_p3.docx" download>Practical 3</a></li>
+    <li><a href="/assets/docx/ai/ET22BTCO037_AI_p4.docx" download>Practical 4</a></li>
     <!-- Add more documents as needed -->
   </ul>
 </details>
