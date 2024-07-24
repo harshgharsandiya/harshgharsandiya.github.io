@@ -2,8 +2,8 @@
 layout: post
 title: Case Study 1
 date: 2024-07-07 16:41:00 +0000
-categories: [Case Study][Vulnerability]
-tags: [ransomware,Daixin,blog]
+categories: [Case Study, Vulnerability]
+tags: [ransomware, Daixin, blog]
 excerpt: "This is the excerpt of Case Study 1"
 ---
 
