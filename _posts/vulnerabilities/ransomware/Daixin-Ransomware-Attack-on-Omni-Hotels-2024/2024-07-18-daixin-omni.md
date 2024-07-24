@@ -7,7 +7,7 @@ tags: [ransomware,Daixin,blog]
 excerpt: "This is the excerpt of exiftool tutorial"
 ---
 
-# Daixin Ransomware Attack on Omni Hotels (2024)
+## Daixin Ransomware Attack on Omni Hotels (2024) ##
 
 ---
 
