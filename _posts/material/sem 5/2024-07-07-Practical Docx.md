@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-07-07 13:00:00 +0000
+date: 2024-07-01 13:00:00 +0000
 categories: [Material, Sem5]
 excerpt: "Comprehensive collection of practical documents for various subjects."
+image: /assets/img/logo/dog.webp
 ---
 
 # Practical Documents Collection
