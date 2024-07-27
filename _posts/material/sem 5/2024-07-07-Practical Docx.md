@@ -15,6 +15,7 @@ image: /assets/img/logo/dog.webp
   <ul>
     <li><a href="/assets/docx/ins/ET22BTCO037_INS_p1.docx" download>Practical 1</a></li>
     <li><a href="/assets/docx/ins/ET22BTCO037_INS_p2.docx" download>Practical 2</a></li>
+    <li><a href="/assets/docx/ins/ET22BTCO037_INS_p3.docx" download>Practical 3</a></li>
     <!-- Add more documents as needed -->
   </ul>
 </details>
