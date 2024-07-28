@@ -1,70 +1,26 @@
 ---
 layout: post
 date: 2024-07-01 13:00:00 +0000
+title: Practical Docx
 categories: [Material, Sem5]
 excerpt: "Comprehensive collection of practical documents for various subjects."
 image: /assets/img/logo/dog.webp
-published: false
 ---
 
 # Practical Documents Collection
 
-## Subject: INS
+{% for subject in site.data.practicals.subjects %}
+## Subject: {{ subject.name }}
 
-<details open>
+<details{% if forloop.first %} open{% endif %}>
   <summary>Click to see all practicals</summary>
   <ul>
-    <li><a href="/assets/docx/ins/ET22BTCO037_INS_p1.docx" download>Practical 1</a></li>
-    <li><a href="/assets/docx/ins/ET22BTCO037_INS_p2.docx" download>Practical 2</a></li>
-    <!-- Add more documents as needed -->
+    {% for doc in subject.documents %}
+    <li><a href="{{ doc.file }}" download>{{ doc.title }}</a></li>
+    {% endfor %}
   </ul>
 </details>
-
-## Subject: WT
-
-<details>
-  <summary>Click to see all practicals</summary>
-  <ul>
-    <li><a href="/assets/docx/wt/ET22BTCO037_WT_p1.docx" download>Practical 1</a></li>
-    <li><a href="/assets/docx/wt/ET22BTCO037_WT_p2.docx" download>Practical 2</a></li>
-    <li><a href="/assets/docx/wt/ET22BTCO037_WT_p3.docx" download>Practical 3</a></li>
-    <li><a href="/assets/docx/wt/ET22BTCO037_WT_html_assignment_1.docx" download>HTML Assignment 1</a></li>
-    <!-- Add more documents as needed -->
-  </ul>
-</details>
-
-## Subject: EAD
-
-<details>
-  <summary>Click to see all practicals</summary>
-  <ul>
-    <li><a href="/assets/docx/ead/ET22BTCO037_EAD_p1.docx" download>Practical 1</a></li>
-    <!-- Add more documents as needed -->
-  </ul>
-</details>
-
-## Subject: IOE Robotics
-
-<details>
-  <summary>Click to see all practicals</summary>
-  <ul>
-    <li><a href="/assets/docx/ioe/ET22BTCO037_IOE_p1.docx" download>Practical 1</a></li>
-    <!-- Add more documents as needed -->
-  </ul>
-</details>
-
-## Subject: AI
-
-<details>
-  <summary>Click to see all practicals</summary>
-  <ul>
-    <li><a href="/assets/docx/ai/ET22BTCO037_AI_p1.docx" download>Practical 1</a></li>
-    <li><a href="/assets/docx/ai/ET22BTCO037_AI_p2.docx" download>Practical 2</a></li>
-    <li><a href="/assets/docx/ai/ET22BTCO037_AI_p3.docx" download>Practical 3</a></li>
-    <li><a href="/assets/docx/ai/ET22BTCO037_AI_p4.docx" download>Practical 4</a></li>
-    <!-- Add more documents as needed -->
-  </ul>
-</details>
+{% endfor %}
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
