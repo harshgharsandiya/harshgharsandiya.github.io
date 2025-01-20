@@ -5,6 +5,7 @@ title: Practical Docx
 categories: [Material, Sem5]
 excerpt: "Comprehensive collection of practical documents for various subjects."
 image: /assets/img/logo/dog.webp
+published: false
 ---
 
 # Practical Documents Collection

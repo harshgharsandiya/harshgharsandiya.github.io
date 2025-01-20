@@ -17,9 +17,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Harsh Gharsandiya # the main title
+title: 0h4rsH # the main title
 
-tagline: Hacking Stuff # it will display as the sub-title
+tagline: Offensive Stuff # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A short and technical writer.
@@ -148,7 +148,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 7
 
 # The base URL of your site
 baseurl: ""
