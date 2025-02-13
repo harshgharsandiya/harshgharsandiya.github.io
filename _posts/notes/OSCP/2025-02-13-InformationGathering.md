@@ -4,7 +4,7 @@ title: "1 Information Gathering"
 categories: [OSCP, InfoGathering]
 tags: [oscp, recon]
 slug: "info-gathering" #url/posts/pageurl
-image: /assets/img/blog/notes\oscp/recon/1.png  # Optional - add an image for the post
+image: /assets/img/blog/notes/oscp/recon/1.png  # Optional - add an image for the post
 published: true  # Set to false if you want it unpublished
 ---
 
