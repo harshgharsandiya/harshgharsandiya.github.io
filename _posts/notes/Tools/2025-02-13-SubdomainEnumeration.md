@@ -4,7 +4,7 @@ title: "1 Subdomain Enumeration"
 categories: [Tools, Subdomain]
 tags: [tool, subdomain]
 slug: "subdomain-enumeration" #url/posts/pageurl
-image: /assets/img/blog/notes\oscp/recon/1.png  # Optional - add an image for the post
+image: /assets/img/blog/notes/tools/1subdomain/1.jpeg  # Optional - add an image for the post
 published: true  # Set to false if you want it unpublished
 ---
 
