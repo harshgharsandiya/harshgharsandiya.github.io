@@ -172,6 +172,10 @@ collections:
     output: true
     sort_by: order
 
+  post_assets:
+    output: true
+    permalink: /posts/:path/
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -226,5 +230,6 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
+    post: /posts/:categories/:slug/
     tag: /tags/:name/
     category: /categories/:name/
