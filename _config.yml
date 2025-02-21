@@ -1,4 +1,5 @@
 # The Site Configuration
+math: true
 
 #future
 future: true
